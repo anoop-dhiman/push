@@ -1,6 +1,6 @@
 Package.describe({
   name: 'anoopd:push',
-  version: '0.0.0-semantic-release',
+  version: '0.0.1',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/raix/push.git'
 });
